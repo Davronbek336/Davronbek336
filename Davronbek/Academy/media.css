@@ -1,0 +1,5 @@
+@media ( max-width: 600px ) {
+    .right-content3{
+        flex: 1 1 100%;
+    }
+}
